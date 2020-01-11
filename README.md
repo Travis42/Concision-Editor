@@ -1,7 +1,7 @@
 # Write-More-Better
 A grammar checker for Microsoft Word
 
-*Its a bit like [Editsaurus](https://github.com/tylerwalters/editsaurus), Hemingway Editor, or Grammarly for Word. See a list of [alternative software](https://alternativeto.net/software/editsaurus/) for the full gist of what this enables you and your team to do.*
+*Its a bit like [Editsaurus](https://github.com/tylerwalters/editsaurus) or Hemingway Editor for Word. See a list of [alternative software](https://alternativeto.net/software/editsaurus/) for the full gist of what this enables you and your team to do.*
 
 Is this useful to you?  Would you like to make it better?  Let me know by writing something in the [**Issues**](https://github.com/Travis42/Write-More-Better/issues) section up top.
 
