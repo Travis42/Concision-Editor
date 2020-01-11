@@ -1,8 +1,8 @@
-# Write More Better
+# Concision Editor
 
 ## What is it?
 
-*Write More Better is a bit like [Editsaurus](https://editsaurus.tylerwalters.com/) or Hemingway Editor for Word. See a list of [alternative software](https://alternativeto.net/software/editsaurus/) for the full gist of what it enables you and your team to do.*
+*Concision Editor is a bit like [Editsaurus](https://editsaurus.tylerwalters.com/) or Hemingway Editor for MS Word. See a list of [alternative software](https://alternativeto.net/software/editsaurus/) for the full gist of what it enables you and your team to do.*
 
 [Download from Github](https://github.com/Travis42/Write-More-Better/raw/master/Write%20More%20Better%201.0.docm)
 
