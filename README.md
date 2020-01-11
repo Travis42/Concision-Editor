@@ -9,7 +9,7 @@ Is this useful to you?  Would you like to make it better?  Let me know by writin
 - You can check large documents (~200 pages or more) easily
 - If the document is sensitive, you won't risk sending information to a server somewhere on the Internet.  Everything stays with you.
 
-## But Macros and scripts can be dangerous to use!
+## But macros and scripts can be dangerous to use!
 It is dangerous out there.  Click on Write More Better.vbs to read the script, so you'll know that there's nothing up.  If you like, you can manually add it to your own Word document instead of using the .docm file.  I understand your concerns.
 
 ## Steps to use:
