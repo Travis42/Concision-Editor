@@ -1,3 +1,5 @@
+# Write More Better
+
 ## What is it?
 
 *Write More Better is a bit like [Editsaurus](https://github.com/tylerwalters/editsaurus) or Hemingway Editor for Word. See a list of [alternative software](https://alternativeto.net/software/editsaurus/) for the full gist of what it enables you and your team to do.*
