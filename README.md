@@ -4,7 +4,7 @@
 
 *Write More Better is a bit like [Editsaurus](https://github.com/tylerwalters/editsaurus) or Hemingway Editor for Word. See a list of [alternative software](https://alternativeto.net/software/editsaurus/) for the full gist of what it enables you and your team to do.*
 
-[Download from Github)](https://github.com/Travis42/Write-More-Better/raw/master/Write%20More%20Better%201.0.docm)
+[Download from Github](https://github.com/Travis42/Write-More-Better/raw/master/Write%20More%20Better%201.0.docm)
 
 ## Main advantages of using a Word VBA script over an online grammar checker:
 - You can check large documents (~200 pages or more) easily
