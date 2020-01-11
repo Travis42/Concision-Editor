@@ -9,7 +9,7 @@ A grammar highlighter for Microsoft Word to make your writing clear and persuasi
 - You can check large documents (~200 pages or more) easily
 - If the document is sensitive, you won't risk sending information to a server somewhere on the Internet.  Everything stays with you.
 
-## But macros and scripts can be dangerous to use!
+## But macros and scripts can be dangerous!
 It is dangerous out there.  Go to [Write More Better.vbs](https://github.com/Travis42/Write-More-Better/blob/master/Write%20More%20Better.vbs) to read the script, so you'll know that there's nothing up.  If you like, you can manually add it to your own Word document instead of using the .docm file.  I understand your concerns.
 
 ## Steps to use:
