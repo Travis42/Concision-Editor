@@ -1,16 +1,15 @@
-# Write-More-Better
-A grammar highlighter for Microsoft Word to make your writing clear and persuasive.
+# What is it?
 
-*Its a bit like [Editsaurus](https://github.com/tylerwalters/editsaurus) or Hemingway Editor for Word. See a list of [alternative software](https://alternativeto.net/software/editsaurus/) for the full gist of what this enables you and your team to do.*
+*Write More Better is a bit like [Editsaurus](https://github.com/tylerwalters/editsaurus) or Hemingway Editor for Word. See a list of [alternative software](https://alternativeto.net/software/editsaurus/) for the full gist of what it enables you and your team to do.*
 
-[Download (links to the file on Github)](
+[Download from Github)](https://github.com/Travis42/Write-More-Better/raw/master/Write%20More%20Better%201.0.docm)
 
 ## The main advantages of using a Word VBA script over an online grammar checker:
 - You can check large documents (~200 pages or more) easily
 - If the document is sensitive, you won't risk sending information to a server somewhere on the Internet.  Everything stays with you.
 
 ## But macros and scripts can be dangerous!
-It is dangerous out there.  Go to [Write More Better.vbs](https://github.com/Travis42/Write-More-Better/blob/master/Write%20More%20Better.vbs) to read the script, so you'll know that there's nothing up.  If you like, you can manually add it to your own Word document instead of using the .docm file.  I understand your concerns.
+True.  Go to [Write More Better.vbs](https://github.com/Travis42/Write-More-Better/blob/master/Write%20More%20Better.vbs) to read the script, so you'll know that there's nothing amiss.  You can manually add it to your own Word document instead of using the .docm file if you prefer.  I understand your concerns.
 
 ## Steps to use:
 
@@ -28,4 +27,4 @@ It is dangerous out there.  Go to [Write More Better.vbs](https://github.com/Tra
 -	F5 while your cursor has selected the script screen, grab a coffee
 -	'save as' something if you like.
 
-#### Is this useful to you?  Would you like to make it better?  Let me know by writing something in the [**Issues**](https://github.com/Travis42/Write-More-Better/issues) section.
+#### Is this useful to you?  Would you like to make it better?  Let me know by writing something in [**Issues**](https://github.com/Travis42/Write-More-Better/issues).
