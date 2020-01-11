@@ -1,5 +1,5 @@
 # Write-More-Better
-A grammar checker for Microsoft Word to make your writing clear and persuasive.
+A grammar highlighter for Microsoft Word to make your writing clear and persuasive.
 
 *Its a bit like [Editsaurus](https://github.com/tylerwalters/editsaurus) or Hemingway Editor for Word. See a list of [alternative software](https://alternativeto.net/software/editsaurus/) for the full gist of what this enables you and your team to do.*
 
