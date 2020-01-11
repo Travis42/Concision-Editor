@@ -27,6 +27,6 @@ True.  Go to [Write More Better.vbs](https://github.com/Travis42/Write-More-Bett
 -	Paste your content into the docm.
 -	Alt-F11, find the script (should come right up)
 -	F5 while your cursor has selected the script screen, grab a coffee
--	'save as' something if you like.
+-	'Save as' something if you like.
 
 #### Is this useful to you?  Would you like to make it better?  Let me know by writing something in [**Issues**](https://github.com/Travis42/Write-More-Better/issues).
