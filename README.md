@@ -1,9 +1,9 @@
 # Write-More-Better
 A grammar checker for Microsoft Word
 
-*Its a bit like Editsaurus for Word. See a list of (alternative software)[https://alternativeto.net/software/editsaurus/] for the full gist of what this enables you and your team to do.*
+*Its a bit like Editsaurus for Word. See a list of [alternative software](https://alternativeto.net/software/editsaurus/) for the full gist of what this enables you and your team to do.*
 
-Is this useful to you?  Would you like to make it better?  Let me know by writing something up in the **Issues** section up top.
+Is this useful to you?  Would you like to make it better?  Let me know by writing something up in the [**Issues**](https://github.com/Travis42/Write-More-Better/issues) section up top.
 
 ## The main advantages of using a Word VBA script over an online grammar checker:
 - You can check large documents (~200 pages or more) easily
