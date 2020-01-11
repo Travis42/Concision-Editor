@@ -2,7 +2,7 @@
 
 ## What is it?
 
-*Concision Editor is a bit like [Editsaurus](https://editsaurus.tylerwalters.com/) or Hemingway Editor, but for MS Word. See a list of [alternative software](https://alternativeto.net/software/editsaurus/) for the full gist of what it enables you and your team to do.*
+*Concision Editor is a bit like [Editsaurus](https://editsaurus.tylerwalters.com/) or Hemingway Editor, but for MS Word.*
 
 [Download from Github](https://github.com/Travis42/Concision-Editor/blob/master/Concision%20Editor.docm)
 
