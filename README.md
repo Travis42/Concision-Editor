@@ -11,7 +11,7 @@
 
 Word does a good job of picking up certain categories of grammar problems.  For the rest, try Concision.
 
-[Download from Github](https://github.com/Travis42/Concision-Editor/blob/master/Concision%20Editor.docm)
+[Download from Github](https://github.com/Travis42/Concision-Editor/blob/master/Concision%20Editor.docm) |
 
 ## Main advantages of using a Word VBA script over an online grammar checker:
 - You can check large documents (200 pages or more) without copy/pasting into a browser
