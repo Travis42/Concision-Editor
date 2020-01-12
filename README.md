@@ -4,7 +4,7 @@
 
 *Concision Editor is a bit like [Editsaurus](https://editsaurus.tylerwalters.com/) or Hemingway Editor, but for MS Word.*
 
-**Filler words** that can take away from your argument are highlighted <p style="background-color: #FFFF00">yellow.</p>
+**Filler words** that can take away from your argument are highlighted <span style="background-color: #FFFF00">yellow.</span>
 **Pronouns** are highlighted <p style="background-color: #CCC">gray.</p>  Make sure they point to a concrete noun.
 **Adverbs** are highlighted <p style="background-color: #00F">bright green.</p>  These can also take away from your paper's impact.
 **Complex words** with simpler alternatives (like Concision) are highlighted <p style="background-color: #CFF">turquoise.</p>
